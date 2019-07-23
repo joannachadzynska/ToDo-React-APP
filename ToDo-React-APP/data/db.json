@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "description": "Build a lot of projects based on React to get understanding of that library",
+      "status": "open",
+      "timeSpent": 96004
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "description": "Understand global state",
+      "status": "open",
+      "timeSpent": 2
+    },
+    {
+      "id": 3,
+      "title": "Learn Redux",
+      "description": "Understand global state",
+      "status": "open",
+      "timeSpent": 9604
+    },
+    {
+      "id": 4,
+      "title": "Learn Redux",
+      "description": "Understand global state",
+      "status": "open",
+      "timeSpent": 9600
+    }
+  ]
+}
